@@ -6,7 +6,7 @@ namespace FirstLessonProgramming
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter first number");
+            Console.WriteLine("Enter first number :::");
 
             int var1;
 
